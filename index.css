@@ -268,6 +268,7 @@ footer p {
 .footer-col-3,
 .footer-col-4 {
   min-width: 250px;
+  margin-bottom: 20px;
 }
 
 .footer-col-1 {
@@ -355,7 +356,7 @@ ul {
 
 /** for less than 600px screen-size **/
 
-@media only screen and (max-width: 600) {
+@media only screen and (max-width: 600px) {
   .row {
     text-align: center;
   }
