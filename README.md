@@ -1,3 +1,3 @@
 # redstore-website
-UI development practice.
+Something on UI development
 https://josephtesla.github.io/redstore-website
